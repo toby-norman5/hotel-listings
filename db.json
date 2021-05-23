@@ -1,0 +1,124 @@
+{
+  "hotels": [
+    {
+      "imageId": "111769",
+      "title": "Grand Hyatt Dubai",
+      "starRating": 5,
+      "description": "Bur Dubai Area, Dubai",
+      "userRating": 9.2,
+      "itemsIncludedInPrice": {
+        "meals": false,
+        "localTaxes": false
+      },
+      "pricePerPersonGBP": 204
+    },
+    {
+      "imageId": "123721",
+      "title": "Baglioni Hotel",
+      "starRating": 3,
+      "description": "Hyde Park",
+      "userRating": 5.1,
+      "itemsIncludedInPrice": {
+        "meals": true,
+        "localTaxes": true
+      },
+      "pricePerPersonGBP": 150
+    },
+    {
+      "imageId": "122536",
+      "title": "Delphin Be Grand Resort",
+      "starRating": 4,
+      "description": "Lara",
+      "userRating": 8.6,
+      "itemsIncludedInPrice": {
+        "meals": true,
+        "localTaxes": false
+      },
+      "pricePerPersonGBP": 120
+    },
+    {
+      "imageId": "373896",
+      "title": "Kasteli Resort",
+      "starRating": 2,
+      "description": "Kamari",
+      "userRating": 3.4,
+      "itemsIncludedInPrice": {
+        "meals": false,
+        "localTaxes": false
+      },
+      "pricePerPersonGBP": 15
+    },
+    {
+      "imageId": "226728",
+      "title": "Club Atrium Hotel",
+      "starRating": 5,
+      "description": "Marmaris",
+      "userRating": 7.2,
+      "itemsIncludedInPrice": {
+        "meals": false,
+        "localTaxes": true
+      },
+      "pricePerPersonGBP": 50
+    },
+    {
+      "imageId": "1885717",
+      "title": "Marina Plaza",
+      "starRating": 4,
+      "description": "Aqaba",
+      "userRating": 8.1,
+      "itemsIncludedInPrice": {
+        "meals": true,
+        "localTaxes": true
+      },
+      "pricePerPersonGBP": 500
+    },
+    {
+      "imageId": "385098",
+      "title": "Grand Cavour Hotel",
+      "starRating": 2,
+      "description": "Florence",
+      "userRating": 4.2,
+      "itemsIncludedInPrice": {
+        "meals": false,
+        "localTaxes": false
+      },
+      "pricePerPersonGBP": 300
+    },
+    {
+      "imageId": "124796",
+      "title": "Fontainebleau Miami Beach",
+      "starRating": 5,
+      "description": "Miami Beach",
+      "userRating": 6.2,
+      "itemsIncludedInPrice": {
+        "meals": true,
+        "localTaxes": false
+      },
+      "pricePerPersonGBP": 220
+    },
+    {
+      "imageId": "226896",
+      "title": "Morana Apartments",
+      "starRating": 3,
+      "description": "Puerto del Carmen",
+      "userRating": 7.4,
+      "itemsIncludedInPrice": {
+        "meals": false,
+        "localTaxes": true
+      },
+      "pricePerPersonGBP": 130
+    },
+    {
+      "imageId": "2008855",
+      "title": "Melia Zanzibar",
+      "starRating": 5,
+      "description": "North East Coast",
+      "userRating": 9.8,
+      "itemsIncludedInPrice": {
+        "meals": true,
+        "localTaxes": false
+      },
+      "pricePerPersonGBP": 200
+    }
+  ]
+}
